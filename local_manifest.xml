@@ -4,7 +4,7 @@
   <project name="rainbowdashh/android_device_samsung_star2lte" path="device/samsung/star2lte" remote="github" revision="PixelExperience-P"/>
   <project name="rainbowdashh/android_device_samsung_starlte" path="device/samsung/starlte" remote="github" revision="PixelExperience-P"/>
   <project name="rainbowdashh/android_device_samsung_crownlte" path="device/samsung/crownlte" remote="github" revision="PixelExperience-P"/>
-  <project name="rainbowdashh/android_device_universal9810-common-star" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
+  <project name="rainbowdashh/android_device_universal9810-common" path="device/samsung/universal9810-common" remote="github" revision="PixelExperience-P"/>
   <!--Hardware-->
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-16.0"/>
   <!--Kernel(s)-->
